@@ -1,1 +1,1 @@
-# grid-testimonials
+Testimonaials layout using CSS grid.

@@ -1,1 +1,1 @@
-Testimonaials layout using CSS grid.
+Testimonials layout using CSS grid.
